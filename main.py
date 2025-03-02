@@ -19,7 +19,7 @@ labels = ['의사', '변호사', '교수']
 
 plt.figure(figsize=(5, 6))
 plt.bar(labels, values, color=['green', 'green', 'green'])
-plt.title('전문직 4대 강력범죄 현황') # 살인·강도·절도·폭력·성폭력 기준
+plt.title('전문직 5대 강력범죄 현황') # 살인·강도·절도·폭력·성폭력 기준
 plt.xlabel('')
 plt.ylabel('명')
 
